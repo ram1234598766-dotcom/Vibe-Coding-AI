@@ -1,0 +1,6 @@
+{
+  "name": "VibeCode AI",
+  "description": "An AI Vibe Coding sandbox that translates your natural language vibes into interactive prototypes, styled in high-fidelity Professional Polish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
